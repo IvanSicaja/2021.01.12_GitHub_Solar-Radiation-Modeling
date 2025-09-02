@@ -35,7 +35,7 @@ Python, NumPy, Pandas, Matplotlib, Statistical Modeling, NASA Data, PVGIS Data, 
 
 ### 📸 Project Snapshot
 
-Not available.
+<p align="center"> <img src="https://github.com/IvanSicaja/2021.01.12_GitHub_Solar-Radiation-Modeling/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true" alt="App Preview" width="640" height="360"> </p> <p align="center"> <img src="https://github.com/IvanSicaja/2021.01.12_GitHub_Solar-Radiation-Modeling/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png?raw=true" alt="App Preview" width="640" height="360"> </p> <p align="center"> <img src="https://github.com/IvanSicaja/2021.01.12_GitHub_Solar-Radiation-Modeling/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_3.png?raw=true" alt="App Preview" width="640" height="360"> </p>
 
 ### 🎥 Video Demonstration
 
